@@ -12,5 +12,3 @@ Tech Stack
 - Python
 - Streamlit
 - REST Countries API
-
-
